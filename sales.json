@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2026-03-11T18:38:23.804196",
+    "recipe": "тест_омлет",
+    "quantity": 1.0,
+    "cost": 28.0,
+    "cost_with_extras": 28.0,
+    "price": null,
+    "profit": null
+  }
+]
